@@ -13,12 +13,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
