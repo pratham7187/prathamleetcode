@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
+## Memoization
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
+## Sorting
+|  |
+| ------- |
+| [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
