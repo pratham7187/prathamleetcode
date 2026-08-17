@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 | [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Memoization
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
