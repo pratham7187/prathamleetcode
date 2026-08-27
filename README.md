@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/pratham7187/prathamleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pratham7187/prathamleetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/pratham7187/prathamleetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pratham7187/prathamleetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/pratham7187/prathamleetcode/tree/master/0707-design-linked-list) |
@@ -74,8 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
