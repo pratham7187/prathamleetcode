@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/pratham7187/prathamleetcode/tree/master/0876-middle-of-the-linked-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratham7187/prathamleetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratham7187/prathamleetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratham7187/prathamleetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
