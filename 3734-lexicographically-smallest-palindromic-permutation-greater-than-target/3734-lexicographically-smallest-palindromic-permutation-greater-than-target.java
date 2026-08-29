@@ -2,21 +2,17 @@ class Solution {
     public String lexPalindromicPermutation(String s, String target) {
         int n=s.length();
         int[] cnt=new int[26];
-
         for(int i=0;i<n;i++){
             cnt[s.charAt(i)-'a']++;
         }
-
         int odd=0;
         int mid=-1;
-
         for(int i=0;i<26;i++){
             if(cnt[i]%2!=0){
                 odd++;
                 mid=i;
             }
         }
-
         if(odd>n%2){
             return "";
         }
