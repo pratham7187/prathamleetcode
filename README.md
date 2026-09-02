@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratham7187/prathamleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratham7187/prathamleetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratham7187/prathamleetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
