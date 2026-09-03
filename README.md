@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratham7187/prathamleetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratham7187/prathamleetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
