@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pratham7187/prathamleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pratham7187/prathamleetcode/tree/master/1470-shuffle-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratham7187/prathamleetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Recursion
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pratham7187/prathamleetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratham7187/prathamleetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
