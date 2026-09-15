@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pratham7187/prathamleetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pratham7187/prathamleetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/pratham7187/prathamleetcode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/pratham7187/prathamleetcode/tree/master/0088-merge-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/pratham7187/prathamleetcode/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pratham7187/prathamleetcode/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratham7187/prathamleetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Recursion
