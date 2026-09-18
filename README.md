@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham7187/prathamleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/pratham7187/prathamleetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pratham7187/prathamleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratham7187/prathamleetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham7187/prathamleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pratham7187/prathamleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pratham7187/prathamleetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham7187/prathamleetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pratham7187/prathamleetcode/tree/master/0010-regular-expression-matching) |
 | [1387-sort-integers-by-the-power-value](https://github.com/pratham7187/prathamleetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Memoization
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pratham7187/prathamleetcode/tree/master/0175-combine-two-tables) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/pratham7187/prathamleetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
