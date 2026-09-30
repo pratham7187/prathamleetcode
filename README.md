@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/pratham7187/prathamleetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/pratham7187/prathamleetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/pratham7187/prathamleetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/pratham7187/prathamleetcode/tree/master/0595-big-countries) |
 ## Manacher
 |  |
 | ------- |
